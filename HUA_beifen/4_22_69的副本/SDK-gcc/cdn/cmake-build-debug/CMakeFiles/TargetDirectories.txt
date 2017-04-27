@@ -1,0 +1,3 @@
+/Users/shiyi/Desktop/HUA_beifen/4_22_69的副本/SDK-gcc/cdn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shiyi/Desktop/HUA_beifen/4_22_69的副本/SDK-gcc/cdn/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shiyi/Desktop/HUA_beifen/4_22_69的副本/SDK-gcc/cdn/cmake-build-debug/CMakeFiles/cdn.dir

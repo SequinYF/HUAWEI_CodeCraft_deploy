@@ -1,0 +1,3 @@
+/Users/shiyi/Desktop/huawei_work/SDK-gcc/cdn/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shiyi/Desktop/huawei_work/SDK-gcc/cdn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shiyi/Desktop/huawei_work/SDK-gcc/cdn/cmake-build-debug/CMakeFiles/cdn.dir
